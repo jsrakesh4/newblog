@@ -1,0 +1,11 @@
+# basic options
+title: Jekyll-Blog
+author: smart guy
+email: jsrprofile@gmail.com
+description: A wonderful blog built with Jekyll
+twitter_username: jsrakesh
+github_username:  jsrakesh4
+
+# Build settings
+markdown: kramdown
+theme: minima
